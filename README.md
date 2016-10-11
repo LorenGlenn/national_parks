@@ -14,7 +14,7 @@
 * _Enjoy_
 
 ## _Known Bugs_
-* _There are none because I was involved in making it... duh_
+* _There are no known bugs_
 
 ## _Support_
 
